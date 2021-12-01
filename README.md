@@ -36,3 +36,25 @@ BISACXYELK-eyJsaWNlbnNlSWQiOiJCSVNBQ1hZRUxLIiwibGljZW5zZWVOYW1lIjoiQ2hpbmFOQiIsI
 
 ![image](https://user-images.githubusercontent.com/52401502/116491893-1dfbd880-a8c5-11eb-9755-623e55510838.png)
 
+~/.config/JetBrains/PhpStorm2021.2/phpstorm64.vmoptions
+```
+
+# custom PhpStorm VM options
+
+-Xms128m
+-XX:ReservedCodeCacheSize=512m
+-Xmx750m
+-XX:+UseG1GC
+-XX:SoftRefLRUPolicyMSPerMB=50
+-XX:CICompilerCount=2
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:-OmitStackTraceInFastThrow
+-ea
+-Dsun.io.useCanonCaches=false
+-Djdk.http.auth.tunneling.disabledSchemes=""
+-Djdk.attach.allowAttachSelf=true
+-Djdk.module.illegalAccess.silent=true
+-Dkotlinx.coroutines.debug=off
+-Dsun.tools.attach.tmp.only=true
+
+```
