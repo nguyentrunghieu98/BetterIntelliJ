@@ -56,5 +56,5 @@ BISACXYELK-eyJsaWNlbnNlSWQiOiJCSVNBQ1hZRUxLIiwibGljZW5zZWVOYW1lIjoiQ2hpbmFOQiIsI
 -Djdk.module.illegalAccess.silent=true
 -Dkotlinx.coroutines.debug=off
 -Dsun.tools.attach.tmp.only=true
-
+-javaagent:/{$HOME}/BetterIntelliJ-1.20.jar
 ```
