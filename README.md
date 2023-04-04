@@ -1,6 +1,6 @@
-# Jetbrains Activation Code 2021
+# Jetbrains Crack
 
-## Active PhpStorm 2021.1.1
+## Active PhpStorm Versions >=2021.3
 
 #### Step 1:  Add below code in /etc/hosts
 
