@@ -1,6 +1,6 @@
 # Jetbrains Crack
 
-## Active PhpStorm Versions >=2021.3
+### Support Version 2019.1～2021.3
 
 #### Step 1:  Add below code in /etc/hosts
 
@@ -58,3 +58,54 @@ BISACXYELK-eyJsaWNlbnNlSWQiOiJCSVNBQ1hZRUxLIiwibGljZW5zZWVOYW1lIjoiQ2hpbmFOQiIsI
 -Dsun.tools.attach.tmp.only=true
 -javaagent:/{$HOME}/BetterIntelliJ-1.20.jar
 ```
+### Support Version 2021.3~2022.1.1
+
+#### Step 1:  Download file JetbrainsIdesCrack_5_3_1_KeepMyLic.jar
+#### Step 2:  Download file JetbrainsIdesCrack_5_3_1_KeepMyLic.jar
+- Create file phpstorm64.vmoptions
+```
+    Example: PhpStorm20xxx
+    ~/.config/JetBrains/PhpStorm20xxx/phpstorm64.vmoptions
+```  
+#### Step 3: Content phpstorm64.vmoptions file
+```  
+# custom PhpStorm VM options
+
+-javaagent:/{$path}/JetbrainsIdesCrack_5_3_1_KeepMyLic.jar
+```  
+### Support Version 2021.3～2022.3
+
+#### Step 1:  Download file JetBrainsUnlimitedTrial_1_4.jar
+#### Step 2:  Download file JetBrainsUnlimitedTrial_1_4.jar
+- Create file phpstorm64.vmoptions
+```
+    Example: PhpStorm20xxx
+    ~/.config/JetBrains/PhpStorm20xxx/phpstorm64.vmoptions
+```  
+#### Step 3: Content phpstorm64.vmoptions file
+```  
+# custom PhpStorm VM options
+
+-javaagent:/{$path}/JetBrainsUnlimitedTrial_1_4.jar
+```  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
