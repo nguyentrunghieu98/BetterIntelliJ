@@ -75,20 +75,7 @@ BISACXYELK-eyJsaWNlbnNlSWQiOiJCSVNBQ1hZRUxLIiwibGljZW5zZWVOYW1lIjoiQ2hpbmFOQiIsI
 ```  
 ### Support Version 2021.3～2022.3
 
-#### Step 1:  Download file JetBrainsUnlimitedTrial_1_4.jar
-#### Step 2:  Download file JetBrainsUnlimitedTrial_1_4.jar
-- Create file phpstorm64.vmoptions
-```
-    Example: PhpStorm20xxx
-    ~/.config/JetBrains/PhpStorm20xxx/phpstorm64.vmoptions
-```  
-#### Step 3: Content phpstorm64.vmoptions file
-```  
-# custom PhpStorm VM options
-
--javaagent:/{$path}/JetBrainsUnlimitedTrial_1_4.jar
-```  
-
+- Open Folder IDEA-2021.3-2022.3
 
 
 
